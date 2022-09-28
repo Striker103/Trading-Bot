@@ -1,0 +1,5 @@
+coin,dollar,time_frame,length,overbought,oversold,take profit,stop loss,days,current take profit,current stop loss,side,open time,open price,open fees,quantity,close time,close price,close fees,success,winning trades,losing trades,trade profit,profit
+BTC,1039.0,5min,14.0,75.0,25.0,4.0,2.0,2,19500.48,20719.26,short,2022-06-29 20:00:00,20313.0,0.7,0.05,2022-06-30 06:30:00,19493.0,0.67,profit,1,0,39.0,39.0
+BTC,1012.93,5min,14.0,75.0,25.0,4.0,2.0,2,20269.6,19100.2,long,2022-06-30 06:35:00,19490.0,0.73,0.05,2022-06-30 09:05:00,19028.0,0.71,loss,1,1,-26.07,12.93
+BTC,1054.08,5min,14.0,75.0,25.0,4.0,2.0,2,19389.76,18271.12,long,2022-06-30 20:45:00,18644.0,0.71,0.05,2022-06-30 23:45:00,19428.0,0.74,profit,2,1,41.15,54.08
+BTC,1018.01,5min,14.0,75.0,25.0,4.0,2.0,2,19024.32,20213.34,short,2022-06-30 23:50:00,19817.0,0.74,0.05,2022-07-01 00:25:00,20467.0,0.76,loss,2,2,-36.07,18.01
